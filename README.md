@@ -1,5 +1,5 @@
 <h1 align="center"> <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+👾+Shubham+👾&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+Prajwal Chander+👾&center=true&size=30">
   </a></h1>
 <h3 align="center">Welcome to my digital space—where every pixel, every dataset, and every algorithm has a story to tell. Let’s build something amazing together!</h3>
 
